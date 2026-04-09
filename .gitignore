@@ -1,0 +1,14 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build output
+out/
+build/
+target/
+
+# Java compiled files
+*.class
+
+# OS files
+.DS_Store
